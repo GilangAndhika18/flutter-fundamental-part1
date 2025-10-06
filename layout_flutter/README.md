@@ -12,4 +12,10 @@ Praktikum 3: Implementasi text section
 
 ![Screenshot](images/praktikum_3.png)
 
+Praktikum 4: Implementasi image section
+
+![Screenshot](images/praktikum_4.png)
+
+
+
 

@@ -60,7 +60,9 @@ class MyApp extends StatelessWidget {
     Widget textSection = Container(
       padding: const EdgeInsets.all(32),
       child: const Text(
-        'Gunung yang sangat indah, cocok buat liburan bersama keluarga, teman, pacar(kalo ada)',
+        'Gunung yang sangat indah, cocok buat liburan bersama keluarga, teman, pacar(kalo ada)'
+        '\nNama : Gilang Andhika Erlangga'
+        '\nNIM : 2341760129',
         softWrap: true,
       ),
     );
@@ -73,6 +75,12 @@ class MyApp extends StatelessWidget {
         ),
         body: Column(
           children: [
+            Image.asset(
+              'images/Gunung_Panderman.jpg',
+              width: 600,
+              height: 240,
+              fit: BoxFit.cover,
+            ),
             titleSection,
             buttonSection,
             textSection,
