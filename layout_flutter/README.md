@@ -8,4 +8,8 @@ Praktikum 2: Implementasi button row
 
 ![Screenshot](images/praktikum_2.png)
 
+Praktikum 3: Implementasi text section
+
+![Screenshot](images/praktikum_3.png)
+
 

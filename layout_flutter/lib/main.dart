@@ -57,6 +57,14 @@ class MyApp extends StatelessWidget {
       ],
     );
 
+    Widget textSection = Container(
+      padding: const EdgeInsets.all(32),
+      child: const Text(
+        'Gunung yang sangat indah, cocok buat liburan bersama keluarga, teman, pacar(kalo ada)',
+        softWrap: true,
+      ),
+    );
+
     return MaterialApp(
       title: 'Flutter layout: Gilang Andhika Erlangga (2341760129)',
       home: Scaffold(
@@ -67,6 +75,7 @@ class MyApp extends StatelessWidget {
           children: [
             titleSection,
             buttonSection,
+            textSection,
             ],
         ),
       ),
