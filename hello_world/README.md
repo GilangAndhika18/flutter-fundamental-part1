@@ -2,15 +2,42 @@
 
 A new Flutter project.
 
-## Getting Started
+Nama : Gilang Andhika Erlangga
+NIM  : 2341760129
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Praktikum 2: Menghubungkan Perangkat Android atau Emulator
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot](images/run%20di%20hp.jpeg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Praktikum 3:
+
+![Sceenshot_hello_world](images/Screenshot%20(1362).png)
+
+Praktikum 4:
+
+Text Widget
+
+![Screenshot](images/text_widget.png)
+
+Images Widget
+
+![Screenshot](images/images_widget.png)
+
+Praktikum 5:
+
+Scaffold Widget
+
+![Screenshot](images/scaffold_widget.png)
+
+Dialog Widget
+
+![Screenshot](images/dialog_widget.png)
+
+Input Widget
+
+![Screenshot](images/input_widget.png)
+
+Date picker
+
+![Screenshot](images/date_picker_widget.png)
